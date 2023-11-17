@@ -33,4 +33,14 @@ As the all-known quote says: "*Keep Calm and Carry On*". When you face a challen
 
 No 摆烂 (Let rot rots).
 
-### Tip 5: 
+### Tip 5: Be a Catalyst for Change
+
+### Tip 6: Remember the Big Picture
+
+People love stories. Stroytelling is one of the most important skills that we should master in today's world. If you believe you have taken a glimpse of a future success, action fast to produce a MVP (minimal valuable product), bring it to the customer, grab them on your boat by adding little spicy 😈 unintentionally.
+
+Reversely, you have to remind yourself to focus on the right track. You are your own customers. Sometimes small changes can misguide your direction when they accumulate by time. Therefore, you have to review yourself often. Remember what is your motivation. Question yourself what you've done wrong and correctly.
+
+### Tip 7: Make Quality a Requirements Issue
+
+Stop being a victim of perfectionism. Definitly not fall into the situation that you stop developing just because you think you are not good enough to make the "perfect" product.
