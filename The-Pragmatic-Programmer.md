@@ -37,10 +37,35 @@ No 摆烂 (Let rot rots).
 
 ### Tip 6: Remember the Big Picture
 
-People love stories. Stroytelling is one of the most important skills that we should master in today's world. If you believe you have taken a glimpse of a future success, action fast to produce a MVP (minimal valuable product), bring it to the customer, grab them on your boat by adding little spicy 😈 unintentionally.
+People love stories. Storytelling is one of the most important skills that we should master in today's world. If you believe you have taken a glimpse of a future success, action fast to produce a MVP (minimal valuable product), bring it to the customer, grab them on your boat by adding little spicy 😈 unintentionally.
 
 Reversely, you have to remind yourself to focus on the right track. You are your own customers. Sometimes small changes can misguide your direction when they accumulate by time. Therefore, you have to review yourself often. Remember what is your motivation. Question yourself what you've done wrong and correctly.
 
 ### Tip 7: Make Quality a Requirements Issue
 
-Stop being a victim of perfectionism. Definitly not fall into the situation that you stop developing just because you think you are not good enough to make the "perfect" product.
+Better is greater than the best. Stop being a victim of perfectionism. Definitly not fall into the situation that you stop developing just because you think you are not good enough to make the "perfect" product.
+
+### Tip 8: Invest Regularly in Your Knowledge Portfolio
+
+Computer scientists are required to learn constantly life-long. Or we should say every individual should be like that. Technologies are envovling fast and so are we. The more you learn, the better you can understand the principles of the computers. It's not only benefitial to your capability in the computer science field, but more importantly it can guide you how to be a better man (computing is just a mapping of the real world, right?). Diversity and depth all matter in terms of your knowledge base. 
+
+It doesn't matter how many hours you learn a day, the thing that really matters is to learn everyday without breaks, regardless how much you learn per day. We can't run all the time, but we do walk every day. It's a life journey, so try to make it enjoyable, brace the fact , and start to love doing it instead of considering it as an item on your to-do-list. 
+
+Know what you don't know is important. It's crucial to know where to find the resource to update yourself. Thanks to today's Internet we can find huge amount of resources that may be helpful. If you happen to know something interesting and valuable, please contact the author (me of course), lots of thanks.
+
+### Tip 9: Critically Analyse What You Read and Hear
+
+Evaluate the learning resource that you find before rushing into it.
+
+### Tip 10: It's both What You Say and the Way You Say It
+
+Communication is the key as long as you are not living alone. Know yourself and know you audience when you communicate.
+
+### Tip 11: DRY --- Don't Repeat Yourself
+
+### Tip 12: Make It Easy to Reuse
+
+Duplication generates errors. Wrapping common logics into functions instead of copy and paste everywhere. Deriving variables instead of declaring them. Refactoring your code base instead of leaving "broken windows" in it. Communicating with you teammates often. Setting up a DRY culture in your team.
+
+### Tip 13:
+
