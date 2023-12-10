@@ -67,5 +67,9 @@ Communication is the key as long as you are not living alone. Know yourself and 
 
 Duplication generates errors. Wrapping common logics into functions instead of copy and paste everywhere. Deriving variables instead of declaring them. Refactoring your code base instead of leaving "broken windows" in it. Communicating with you teammates often. Setting up a DRY culture in your team.
 
-### Tip 13:
+### Tip 13: Eliminate Effects Between Unrelated Things
+
+The S from [SOLID principle](https://hadjshell.github.io/posts/solid-notes/): Single responsibility principle, which requires *high cohesion and loose coupling*. 
+
+Functions -> Components -> Modules -> Layers -> System
 
